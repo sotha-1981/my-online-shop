@@ -58,6 +58,7 @@ footer{
     padding: 10px;
     width: 100%;
     display: fixed;
+    margin: 0;
 }
 
 button{
