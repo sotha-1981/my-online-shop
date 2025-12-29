@@ -88,8 +88,11 @@ button:hover{
         width: 100%;
         text-align: center;
     }
-    body {
+    main {
         width: 100%;
         text-align: center;
+    }
+    .product{
+        width: 100%;
     }
 }
